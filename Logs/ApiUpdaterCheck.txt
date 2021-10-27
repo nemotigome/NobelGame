@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 2021/09/22 11:48:00 : Starting /Users/saitohiroto/Documents/Unipro/2020.3.11f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 278.685ms
+moved types parse time: 162ms
+candidates parse time : 3ms
+C# parse time         : 697ms
+candidates check time : 140ms
+console write time    : 12ms
+
